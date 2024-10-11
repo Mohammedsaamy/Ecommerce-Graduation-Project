@@ -1,0 +1,38 @@
+﻿[
+  {
+    Brand_ID = 1 ,
+    Name = "Apple"
+  }, new Brand
+  {
+    Brand_ID = 2 ,
+    Name = "ASUS"
+  }, new Brand
+  {
+    Brand_ID = 3 ,
+    Name = "HP"
+  }, new Brand
+  {
+    Brand_ID = 4 ,
+    Name = "Lenovo"
+  }, new Brand
+  {
+    Brand_ID = 5 ,
+    Name = "Dell"
+  }, new Brand
+  {
+    Brand_ID = 6 ,
+    Name = "Samsung"
+  }, new Brand
+  {
+    Brand_ID = 7 ,
+    Name = "Xiaomi"
+  }, new Brand
+  {
+    Brand_ID = 8 ,
+    Name = "Huawei"
+  }, new Brand
+  {
+    Brand_ID = 9 ,
+    Name = "LG"
+  }
+]
